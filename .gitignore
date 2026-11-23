@@ -1,0 +1,13 @@
+node_modules/
+.cache/
+out/
+jobs/
+editing-inputs/
+*.mp4
+*.mp3
+*.wav
+*.mov
+connection.json
+connection-key.txt
+.env
+__pycache__/
